@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bookup</string>
+    <string name="no_author">Anonymous</string>
+    <string name="no_books">No books found.</string>
+    <string name="no_internet">No internet connection.</string>
+    <string name="no_cost">Price not available</string>
+    <string name="no_desc">No description available.</string>
+    <string name="category">Category: </string>
+    <string name="no_cat">Unsorted</string>
+    <string name="description">Description</string>
+    <string name="cost">INR 500</string>
+    <string name="no_image">No Image Available.</string>
+    <string name="by">by</string>
+    <string name="Author">Author</string>
+    <string name="no_date">No date available.</string>
+    <string name="intro">Hi there!\n Bookup is a lookup tool for Google Books. It uses the Google Books API and searches for books with a keyword of your choice. Try typing something below and press the search button.</string>
+</resources>
